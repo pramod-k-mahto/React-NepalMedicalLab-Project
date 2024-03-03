@@ -1,0 +1,130 @@
+.cart-img{
+    height: 100px;
+    width: 100px;
+    margin:2px;
+    /* height: 90px; */
+    background-size: contain;
+
+    /* background-color: black; */
+}
+.cart-img img{
+    height: 90px;
+width: 90px;
+display: inline-block;
+
+/* border: 2px solid black; */
+
+
+}
+
+.cart-Item{
+    position: relative;
+/* border: 2px solid black; */
+display: flex;
+margin: 10px;
+background-color: rgb(240, 238, 238);
+/* margin-top: 12px; */
+padding: 30px 40px 0px 0px;
+width: 65vw;
+height: 150px;
+border-radius: 12px;
+}
+.name{
+    /* border: 2px solid black; */
+width: 25vw;
+margin-right: 100px;
+text-align: justify;
+}
+.cart-price{
+    /* border: 2px solid black; */
+    /* margin-right: 100px; */
+    /* margin-bottom: 10px; */
+    padding: 0px;
+    text-align: justify;
+    line-height: normal;
+    position: absolute;
+
+    right: 200px;
+    top: 13px;
+
+}
+
+.incementAndDecrement{
+
+    /* border: 2px solid black; */
+    display: flex;
+    height: 50px;
+    width: 100px;
+    position: absolute;
+right: 15px;
+
+}
+.increment{
+    /* float:inline-end; */
+/* display: flex; */
+height: 30px;
+width: 30px;
+align-items: center;
+margin-top: 12px;
+/* margin-right: 10px; */
+/* margin-right: 12px; */
+/* margin-left: 100px; */
+
+}
+
+.val{
+    margin: 15px 12px 0px 12px;
+}
+
+#checkbox{
+    /* margin-bottom: 50px; */
+    margin:12px 13px 50px 5px ;
+    /* height: 20px; */
+}
+.cart-orderSummery{
+
+position: absolute;
+/* position: sticky; */
+    /* border: 2px solid black; */
+    float: right;
+    clear: both;
+    top: 100px;
+    right: 8px;
+    margin: 12px;
+width: 26%;
+background-color: rgb(240, 238, 238);
+padding: 5px;
+
+}
+.p{
+    margin-right: 127px;
+    display: inline-block;
+}
+.p2{
+    margin-right: 230px;
+    display: inline-block;
+
+
+}
+
+.btn{
+    background-color: rgb(20, 21, 21);
+    width: 97%;
+    color: white;
+    /* margin-left: 26px; */
+}
+.btn:hover{
+    background-color: rgb(96, 91, 91);
+}
+#input{
+    height: 35px;
+    width: 65%;
+}
+.apply-btn{
+
+    background-color: black;
+    height: 40px;
+    width: 100px;
+    color: white;
+    margin-left: 5px;
+}

@@ -1,0 +1,10 @@
+.Midnav{
+    background-color: rgb(141, 137, 137);
+    width: 98vw;
+    height: 300px;
+    border-radius: 12px;
+    background-image: url("https://denmark.lab.se/wp-content/uploads/sites/8/2020/03/Slider-dk-scaled.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* margin: 12px; */
+}

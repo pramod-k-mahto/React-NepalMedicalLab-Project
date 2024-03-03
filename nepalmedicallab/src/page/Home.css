@@ -1,0 +1,40 @@
+.image1{
+/* height: 100px;     */
+    background-color: rgb(149, 142, 142);
+}
+.old-Price{
+    text-decoration: line-through;
+}
+.image1 img{
+    /* height: 100px; */
+    width: 100%;
+    height: 160px;
+    /* border: 2px solid black; */
+background-color: rgb(113, 108, 108);
+}
+.Component{
+    border-radius: 12px;
+
+padding: 7px;
+    /* border: 2px solid rgb(115, 110, 110); */
+    /* background-color: rgb(232, 219, 219); */
+    height: 420px;
+    width: 250px;
+    margin-top: 500px;
+    margin: 22px;
+    /* display: flex; */
+
+    /* background-color: rgb(137, 135, 134); */
+    background-color: white;
+}
+
+.mydiv{
+
+
+    /* background-color: red; */
+
+
+        display: flex;
+        flex-wrap: wrap;
+
+}

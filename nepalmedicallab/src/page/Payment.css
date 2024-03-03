@@ -1,0 +1,33 @@
+
+.ProductDetail{
+    border: 2px solid black;
+    /* display: flex; */
+    margin: 12px;
+}
+
+.discountPayment{
+    border: 2px solid black;
+
+}
+.ProductDetail{
+    /* border: 2px solid black; */
+
+}
+.img-part{
+    /* border: 2px solid black; */
+display: flex;
+}
+.img-part img{
+    height: 50px;
+    width: 50px;
+    /* border: 2px solid black; */
+    margin: 12px;
+
+
+}
+.productname{
+    text-align: justify;
+    
+}
+
+

@@ -1,0 +1,63 @@
+.navbar{
+    /* border: 2px solid black; */
+    position: relative;
+    background-color: rgb(169, 167, 167);
+
+    border-radius: 12px;
+}
+#search{
+    height: 20px;
+
+
+}
+.npl{
+    /* background-color: aqua; */
+    /* margin-bottom: 12px; */
+    /* margin: 40px; */
+    position:absolute;
+    height: 40px;
+    top: 17px;
+    left: 87px;
+    font-size: 25px;
+}
+.search-btn{
+    background-color: rgb(107, 100, 100);
+    /* border: 2px solid black; */
+    color: white;
+    height: 20px;
+}
+.logo {
+    height: 80px;
+    /* border: 2px solid; */
+    border-radius: 50px;
+    width: 80px;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+    background-image: url("https://www.shutterstock.com/image-photo/view-3d-rendering-molecule-on-260nw-797251741.jpg");
+}
+
+
+.menu ul{
+    text-decoration: none;
+    position: absolute;
+    right: 12px;
+    top: 1px;
+}
+.menu ul li{
+
+    list-style-type: none;
+    display: inline-block;
+    margin: 12px;
+    
+}
+
+ .navlink{
+    text-decoration: none;
+    color: rgb(235, 248, 248);
+
+}
+.navlink:hover{
+    color: rgb(16, 16, 16);
+}
